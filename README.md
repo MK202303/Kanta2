@@ -10,3 +10,4 @@ What is your favorite country?
 - China
 - Japan
 - UK
+- Australia
